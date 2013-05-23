@@ -11,7 +11,7 @@
 </head>
 <body>
 
-// feed will appeare here
+<!-- feed will appeare here -->
 <div id="twitter_feed"></div>
 
 </body>
